@@ -1,6 +1,35 @@
-# Sistema de Gestão de Hospedagem e Reservas
+# SISTEMA DE GERENCIAMENTO DE HOST FAMILY PARA CELÍACOS
 
-Este sistema foi desenvolvido para gerenciar hospedagens e reservas para um estabelecimento. O **Anfitrião** pode cadastrar e gerenciar as hospedagens, enquanto o **Hóspede** pode realizar reservas, que depois são confirmadas pelo Anfitrião. A comunicação entre o Anfitrião e o Hóspede segue para o **WhatsApp** para facilitar a confirmação de pagamento e mais detalhes da estadia.
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) para a obtenção do título de Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Jundiaí - "Deputado Ary Fossen", sob a orientação da Professora Me. Ângela Cristina de Oliveira Lühmann.
+
+## Integrantes
+
+- Higor Bernardes da Silva  
+- Myrelle Sales Santos  
+- Victor De Almeida e Silva  
+- Whitney Gomes Santos De Sousa  
+
+## Sobre o Projeto
+
+O Sistema de Gerenciamento de Host Family para Celíacos foi desenvolvido com o objetivo de proporcionar uma plataforma segura e eficiente para pessoas celíacas (portadoras da doença celíaca), permitindo que elas encontrem hospedagens com opções alimentares adequadas às suas necessidades, sem riscos de contaminação cruzada. Além disso, o sistema oferece uma interface amigável para anfitriões que desejam disponibilizar suas propriedades e gerenciar reservas, tudo isso em conformidade com as exigências alimentares rigorosas dos celíacos.
+
+Este sistema visa garantir que os hóspedes celíacos possam se hospedar de maneira segura, sem a preocupação com a ingestão acidental de glúten, ao mesmo tempo em que oferece aos anfitriões uma maneira simples e eficaz de gerenciar suas hospedagens e reservas.
+
+## Funcionalidades
+
+O sistema conta com funcionalidades como:
+
+- Cadastro de anfitriões e hóspedes
+- Gerenciamento de hospedagens
+- Busca de hospedagens específicas para celíacos
+- Gerenciamento de reservas e disponibilidade
+- Filtros para garantir opções seguras, sem glúten
+
+## Tecnologias Utilizadas
+
+- **PHP** para o desenvolvimento da aplicação web
+- **MySQL** para o gerenciamento do banco de dados
+- **HTML/CSS/JavaScript** para a construção da interface do usuário
 
 ## Instruções de Instalação e Configuração
 
@@ -45,17 +74,28 @@ Após configurar o XAMPP e o banco de dados, siga os passos abaixo para acessar 
 6. **Consideração sobre Dieta para Celíacos:**
    - No cadastro de cada hospedagem, o **Anfitrião** pode informar se o local oferece opções para **celíacos** (sem glúten). Isso permite que Hóspedes com restrições alimentares possam fazer uma escolha mais informada sobre onde se hospedar.
 
-### 4. Acesso ao Documento Completo
+## Como Usar
 
-Para mais detalhes sobre a implementação do sistema, consulte o [documento completo aqui](https://docs.google.com/document/d/1PHGvojWyHI4i-P7Dpq1Ju9eAYZaLj7VE/edit?usp=sharing&ouid=109116318482722390567&rtpof=true&sd=true).
+Para rodar o sistema localmente, siga as etapas abaixo:
 
----
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Configure seu banco de dados MySQL de acordo com as instruções do projeto.
+3. Abra o arquivo `index.php` no navegador e comece a utilizar o sistema!
+
+## Agradecimentos
+
+Este trabalho é dedicado aos professores, colegas de curso, e aos nossos familiares, que foram fundamentais durante a jornada acadêmica. Agradecemos também a todos que contribuíram direta ou indiretamente para o sucesso deste projeto.
+
+## Conclusão
+
+Este trabalho de TCC contribui para a criação de um ambiente mais seguro e inclusivo para pessoas celíacas, oferecendo uma solução tecnológica inovadora para o gerenciamento de hospedagens. O projeto está em constante evolução, com planos para melhorias e novos recursos que atenderão às necessidades de um público cada vez mais exigente em termos de segurança alimentar e experiência de hospedagem.
 
 ## Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
----
 
 ## Contato
 
