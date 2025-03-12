@@ -4,10 +4,10 @@ Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC
 
 ## Integrantes
 
-- Higor Bernardes da Silva  
-- Myrelle Sales Santos  
-- Victor De Almeida e Silva  
-- Whitney Gomes Santos De Sousa  
+- [Higor Bernardes da Silva](https://github.com/higorber)
+- [Myrelle Sales Santos](https://github.com/myrellesales)
+- [Victor De Almeida e Silva](https://github.com/victoralmeida891)
+- [Whitney Gomes Santos De Sousa](https://github.com/whitgomes) 
 
 ## Sobre o Projeto
 
@@ -80,7 +80,7 @@ Para rodar o sistema localmente, siga as etapas abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/higorber/ht.git
    ```
 2. Configure seu banco de dados MySQL de acordo com as instruções do projeto.
 3. Abra o arquivo `index.php` no navegador e comece a utilizar o sistema!
@@ -93,10 +93,6 @@ Este trabalho é dedicado aos professores, colegas de curso, e aos nossos famili
 
 Este trabalho de TCC contribui para a criação de um ambiente mais seguro e inclusivo para pessoas celíacas, oferecendo uma solução tecnológica inovadora para o gerenciamento de hospedagens. O projeto está em constante evolução, com planos para melhorias e novos recursos que atenderão às necessidades de um público cada vez mais exigente em termos de segurança alimentar e experiência de hospedagem.
 
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
 ## Contato
 
-Se tiver dúvidas ou sugestões, entre em contato com [seu_email@dominio.com](mailto:seu_email@dominio.com).
+Se tiver dúvidas ou sugestões, entre em contato com: [higor.silva35@fatec.sp.gov.br](mailto:higor.silva35@fatec.sp.gov.br), [myrelle.santos@fatec.sp.gov.br](mailto:myrelle.santos@fatec.sp.gov.br), [victor.silva225@fatec.sp.gov.br](mailto:victor.silva225@fatec.sp.gov.br), [whitney.sousa@fatec.sp.gov.br](mailto:whitney.sousa@fatec.sp.gov.br).
